@@ -1,36 +1,54 @@
 <!-- PROJECT BANNER -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Capstone%20Project-Cultural%20Tourism-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Cultural%20Tourism%20Platform-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Powered%20By-Gemini%20AI-purple?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-orange?style=for-the-badge&logo=googlecloud" />
 </p>
 
-<h1 align="center">🌍 AI Cultural Tourism Insights & Engagement Platform</h1>
+<h1 align="center">🌏 AI Cultural Tourism Insights & Engagement Platform</h1>
+
+<h3 align="center">
+An AI-powered platform that generates personalized cultural travel recommendations and itineraries using Generative AI.
+</h3>
 
 <p align="center">
-AI-powered platform that generates <b>personalized cultural travel recommendations and itineraries</b> using <b>Generative AI and Google AI Studio (Gemini AI)</b>.
-</p>
-
-<p align="center">
-<a href="https://github.com/prakharsharma-cpu/Capstone-Project-finals.-Cultural-AI">Repository</a> •
-<a href="https://ai.studio/apps/de13602c-2c70-435d-a4ed-5b4679976c87?fullscreenApplet=true">Live App</a>
+Discover cultural destinations based on your interests, travel goals, and preferences.
 </p>
 
 ---
 
-# 📌 Project Overview
+# 📌 Project Information
 
-Traditional travel platforms usually recommend destinations based on **popularity**, not **personal cultural interests**.
+**Name:** Prakhar Sharma  
+**Candidate Registration Number:** 1000260  
+**CRS:** Artificial Intelligence  
+**Course:** Capstone Project Y2  
+**School:** Ryan Global School, Kharghar  
 
-Many travelers want experiences such as:
+🔗 **GitHub Repository**  
+https://github.com/prakharsharma-cpu/Capstone-Project-finals.-Cultural-AI  
 
-- 🏛 Historical monuments  
-- 🎭 Cultural festivals  
-- 🖼 Museums and art galleries  
-- 🏰 Heritage sites  
-- 🌏 Local traditions  
+🚀 **Live AI App**  
+https://ai.studio/apps/de13602c-2c70-435d-a4ed-5b4679976c87?fullscreenApplet=true
 
-Finding these often requires research across multiple platforms.
+---
 
-This project solves that using **Artificial Intelligence and Generative AI** to analyze user preferences and generate **personalized cultural travel recommendations and itineraries**.
+# 🌍 Project Overview
+
+Traditional travel platforms usually recommend destinations based on **popularity rather than personal cultural interests**.
+
+However, many travelers want to explore experiences such as:
+
+🏛 Historical monuments  
+🎉 Cultural festivals  
+🖼 Museums and art galleries  
+🏺 Heritage sites  
+🎭 Local traditions  
+
+Finding these experiences often requires searching across multiple travel platforms.
+
+This project solves that problem using **Artificial Intelligence and Generative AI** to analyze user preferences and generate **personalized cultural travel recommendations and itineraries**.
 
 ---
 
@@ -39,52 +57,52 @@ This project solves that using **Artificial Intelligence and Generative AI** to 
 - Build an **AI-powered cultural tourism recommendation system**
 - Generate **personalized travel itineraries using Generative AI**
 - Create an **interactive cultural travel exploration platform**
-- Provide **AI-generated cultural insights**
-- Demonstrate **AI tools in tourism planning**
+- Provide **AI-generated cultural insights for travelers**
+- Demonstrate the use of **modern AI tools in tourism planning**
 
 ---
 
 # ✨ Key Features
 
-## 1️⃣ User Preference Module
+### 👤 User Preference Module
+
 Collects traveler inputs such as:
 
-- Cultural interests  
-- Travel goals  
-- Budget  
-- Travel duration  
+- Cultural interests
+- Travel goals
+- Budget
+- Travel duration
 
 ---
 
-## 2️⃣ Cultural Recommendation Engine
-Uses **AI algorithms** to match user preferences with relevant cultural destinations.
+### 🧠 Cultural Recommendation Engine
+
+Uses **AI algorithms** to match user preferences with suitable cultural destinations.
 
 ---
 
-## 3️⃣ AI Itinerary Generator
-Creates **personalized travel schedules** using Generative AI.
+### 🗺 AI Itinerary Generator
+
+Generates a **personalized travel schedule** based on user interests.
 
 ---
 
-## 4️⃣ Cultural Insights Generator
-Provides AI-generated descriptions of:
+### 📚 Cultural Insights Generator
 
-- Cultural landmarks  
-- Historical significance  
-- Cultural experiences  
+Provides **AI-generated information and cultural insights** about destinations.
 
 ---
 
-# 🧑‍🤝‍🧑 Stakeholders
+# 👥 Stakeholders
 
-### Travelers
-Discover cultural destinations tailored to personal interests.
+### 🧳 Travelers
+Discover cultural destinations tailored to their interests.
 
-### Tourism Organizations
-Promote heritage and cultural tourism locations.
+### 🏛 Tourism Organizations
+Promote heritage sites and cultural experiences.
 
-### Travel Agencies
-Use AI insights to design travel packages.
+### ✈ Travel Agencies
+Use AI insights to design smarter travel packages.
 
 ---
 
@@ -92,92 +110,94 @@ Use AI insights to design travel packages.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-AI%20Development-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Gemini%20AI-Generative%20AI-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Tourism%20AI-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-AI%20Development-blue?style=for-the-badge&logo=googlecloud"/>
+
+<img src="https://img.shields.io/badge/Gemini%20AI-Generative%20AI-purple?style=for-the-badge&logo=google"/>
 
 </p>
 
 | Tool | Purpose |
 |-----|-----|
-| **Google AI Studio** | Cloud environment for building AI apps |
-| **Gemini AI** | Generates personalized travel insights |
+| **Google AI Studio** | Cloud-based environment for building and testing AI applications |
+| **Gemini AI** | Multi-modal AI model used to generate recommendations |
 
 ---
 
 # ⚙ AI Workflow
 
-### Step 1 – User Interaction
+
+User Input
+↓
+Preference Analysis
+↓
+Gemini AI Processing
+↓
+Destination Recommendations
+↓
+Personalized Travel Itinerary
+↓
+Cultural Insights Display
+
+
+### Step 1 — User Input
 User enters:
 
-- Interests  
-- Travel goals  
-- Travel duration  
-- Budget  
+- interests  
+- travel goals  
+- travel duration  
+- budget  
 
----
+### Step 2 — AI Processing
+Data is sent to **Google AI Studio**, where **Gemini AI analyzes user preferences**.
 
-### Step 2 – AI Processing
-The platform sends user data to **Google AI Studio**, where **Gemini AI analyzes preferences**.
+### Step 3 — Recommendation Generation
+Gemini identifies cultural destinations matching the user's interests.
 
----
+### Step 4 — Itinerary Creation
+AI generates a **personalized travel plan**.
 
-### Step 3 – Destination Recommendation
-Gemini AI identifies destinations matching cultural interests.
+### Step 5 — Results Display
+Platform displays:
 
----
-
-### Step 4 – Itinerary Creation
-AI generates a **custom travel plan**.
-
----
-
-### Step 5 – Results Display
-The platform displays:
-
-- Cultural destinations  
-- AI-generated insights  
-- Travel itinerary  
+- destination recommendations  
+- cultural insights  
+- travel itinerary  
 
 ---
 
 # 📅 Development Timeline
 
-| Week | Task |
-|-----|-----|
-| 1 | Project research |
-| 2 | Tourism dataset collection |
-| 3 | Data preparation |
-| 4 | AI prompt design |
-| 5 | Gemini AI integration |
-| 6 | User preference module |
-| 7 | Cultural insights generator |
-| 8 | Interface development |
-| 9 | Testing and optimization |
-| 10 | Final integration |
+| Week | Development Stage |
+|-----|----------------|
+| Week 1 | Project research |
+| Week 2 | Data collection |
+| Week 3 | Data preparation |
+| Week 4 | AI model design |
+| Week 5 | Gemini AI integration |
+| Week 6 | User preference module |
+| Week 7 | Cultural insights generator |
+| Week 8 | Interface development |
+| Week 9 | Testing & optimization |
+| Week 10 | Final integration |
 
 ---
 
 # ⚠ Risk Management
 
 ### AI Recommendation Accuracy
-AI might generate irrelevant suggestions.
+AI may generate irrelevant suggestions.
 
-**Solution:** Improve prompts and refine inputs.
-
----
+**Solution:** Improve prompts and refine user inputs.
 
 ### Data Availability
-Limited cultural tourism datasets.
+Limited tourism data may reduce recommendation quality.
 
-**Solution:** Use open tourism data sources.
-
----
+**Solution:** Use open cultural tourism datasets.
 
 ### External AI Dependency
 Reliance on Gemini AI services.
 
-**Solution:** Optimize prompts and store responses.
+**Solution:** Optimize prompts and store generated responses.
 
 ---
 
@@ -185,32 +205,45 @@ Reliance on Gemini AI services.
 
 The project will be evaluated based on:
 
-- 💡 **Innovation** – Use of Generative AI in tourism  
-- ⚙ **Technical Implementation** – Gemini AI integration  
-- 🎨 **Usability** – User-friendly interface  
-- 🌏 **Cultural Impact** – Promotion of cultural tourism  
+✔ Innovation in AI tourism applications  
+✔ Technical implementation of Gemini AI  
+✔ Usability of the platform  
+✔ Cultural tourism impact  
 
 ---
 
-# 👨‍💻 Author
+# 🧾 Conclusion
 
-**Prakhar Sharma**  
-Artificial Intelligence Capstone Project  
+The **AI Cultural Tourism Insights & Engagement Platform** demonstrates how **Artificial Intelligence can transform tourism planning**.
 
-🏫 Ryan Global School, Kharghar  
+Using **Google AI Studio and Gemini AI**, the system analyzes user preferences and generates **intelligent cultural travel recommendations and itineraries**.
 
----
-
-# 🔗 Links
-
-📂 **GitHub Repository**  
-https://github.com/prakharsharma-cpu/Capstone-Project-finals.-Cultural-AI  
-
-🚀 **Live AI App**  
-https://ai.studio/apps/de13602c-2c70-435d-a4ed-5b4679976c87?fullscreenApplet=true  
+This helps travelers discover **meaningful cultural destinations and engage more deeply with global heritage**.
 
 ---
 
-<p align="center">
-✨ Built using Generative AI to improve cultural tourism experiences ✨
-</p>
+# 📷 Application Screenshots
+
+### Login Page
+<img src="screenshots/login.png" width="800">
+
+### Home Page
+<img src="screenshots/home.png" width="800">
+
+### Trip Planner
+<img src="screenshots/trip-planner.png" width="800">
+
+### Smart Recommendations
+<img src="screenshots/recommendations.png" width="800">
+
+### Travel Toolbox
+<img src="screenshots/toolbox.png" width="800">
+
+### AI Chatbot
+<img src="screenshots/chatbot.png" width="800">
+
+---
+
+# ⭐ Support
+
+If you like this project, consider **starring the repository** ⭐ on GitHub.
